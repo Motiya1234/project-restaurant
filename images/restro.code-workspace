@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Restaurent"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Restaurent"
+	}
+}
